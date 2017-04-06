@@ -1,5 +1,3 @@
-int a;
-
 struct motor{
   byte fim;  // pino do sensor de fim de curso
   byte mais;  // pino de saida do motor no sentido positivo
